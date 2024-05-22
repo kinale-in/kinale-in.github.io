@@ -7,7 +7,7 @@ permalink: "/about/"
 # image: "/assets/images/gen/content/content-5.webp"
 ---
 
-# Kinale was founded in 2021 with a vision to create well crafted residential projects that celebrate our connection with nature. We believe that houses should serve as a retreat from the humdrum of life, a place of calm where one can reconnect and rediscover one's self.
+## Kinale was founded in 2021 with a vision to create well crafted residential projects that celebrate our connection with nature. We believe that houses should serve as a retreat from the humdrum of life, a place of calm where one can reconnect and rediscover one's self.
 
 ## Our Founders
 
