@@ -67,7 +67,7 @@ exclude:
 # -------------------
 # Theme Config
 # --------------------
-title: "Jekyll Curate"
+title: "Kinale"
 category_dir: category
 
 colors:
