@@ -1,11 +1,11 @@
 ---
 layout: contact
-title: Contact
+# title: Contact
 permalink: "/contact/"
 ---
 
-## Contact Info
+## Contact Us
 
-- **Email:** <a href="mailto:example@example.com">example@example.com</a>
-- **Phone:** +61 0417 123 XXX
-- **Address:** Clem Jones Promenade, South Brisbane QLD 4101
+- **Email:** <a href="mailto:contact@kinale.in">contact@kinale.in</a>
+- **Phone:** Sourav +91 98101 33235
+- **Office:** 3/86, Mudda Vaddo, Saligao Bardez Goa, Saligao, Goa - 403511

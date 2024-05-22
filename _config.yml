@@ -107,22 +107,22 @@ fonts:
   logo: "'DM Sans'"
 
 logo:
-  logo_text: "Jekyll Curate"
+  logo_text: "Kinale"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
   logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
-  logo_image_desktop_height: "28px"
-  logo_image_desktop_width: "28px"
+  logo_image_desktop_height: "33px"
+  logo_image_desktop_width: "153px"
   logo_image_mobile_height: "28px"
-  logo_image_mobile_width: "28px"
+  logo_image_mobile_width: "117px"
   show_logo_image_on_mobile: true
   show_logo_image_on_desktop: true
   show_logo_text_on_mobile: false
   show_logo_text_on_desktop: false
 
 header: 
-  fixed: false
+  fixed: true
 
 open_graph:
   meta_opengraph_type: "website"
@@ -156,7 +156,7 @@ comments:
 
 newsletter:
   mailchimp:
-    form_action_url: https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
+    form_action_url: '' #https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
     form_title: "Let's keep in touch"
 
 contact_form: 
@@ -171,11 +171,11 @@ menu:
 
 footer:
   enable_footer: true # show/hide the entire footer
-  footer_title: "Jekyll Curate"
-  footer_description: "Curate is a creative portfolio for Jekyll by Zerostatic Themes."
+  footer_title: "Kinale Riverside Estate, LLP"
+  footer_description: "Real Estate Ventures"
   enable_social_media_icons: true
   enable_contact_details: false
-  enable_menu_footer_primary: true
+  enable_menu_footer_primary: false
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: false
   footer_primary_menu_title: "Our Projects"
@@ -185,5 +185,5 @@ footer:
 bottom:
   enable_bottom: false # show/hide the entire bottom (below the footer)
   enable_bottom_menu: false # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2021 Zerostatic Themes"
+  copyright_text: "© 2024 Kinale Riverside Estate"
   show_rss_icon: true

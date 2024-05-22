@@ -3,7 +3,7 @@ layout: default
 body_classes: page-home
 ---
 
-<div class="section">
+<!-- <div class="section pt-10">
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -14,7 +14,7 @@ body_classes: page-home
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 {% assign cards = site.projects | sort: 'date' | reverse %}
 {% assign limit = page.projects.limit | default: 3 %}
@@ -71,7 +71,7 @@ body_classes: page-home
   {% assign cards = cards | sort: 'weight' %}
 {% endif %}
 
-{% if cards.size > 0 %}
+<!-- {% if cards.size > 0 %}
 <div class="section section-base-bg-2">
   <div class="container">
     <div class="row">
@@ -101,7 +101,7 @@ body_classes: page-home
     </div>
   </div>
 </div>
-{% endif %}
+{% endif %} -->
 
 {% if site.newsletter.mailchimp.form_action_url and site.newsletter.mailchimp.form_action_url != '' %}
   <div class="section section-base-bg-2">

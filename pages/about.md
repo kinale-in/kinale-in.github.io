@@ -1,46 +1,24 @@
 ---
 layout: basic
-title: "About Us"
+# title: "About Us"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
-image: "/assets/images/gen/content/content-5.webp"
+# description: "Business plan hackathon handshake responsive web design."
+# image: "/assets/images/gen/content/content-5.webp"
 ---
 
-# Creating Modern Websites
+# Kinale was founded in 2021 with a vision to create well crafted residential projects that celebrate our connection with nature. We believe that houses should serve as a retreat from the humdrum of life, a place of calm where one can reconnect and rediscover one's self.
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+## Our Founders
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+Sourav De Biswas, an M&A lawyer, has been a senior partner at India's premiere law firm, Amarchand Mangaldas. He has overseen large mergers and acquisitions, advising prominent international clients on various domains of law, including contracts and corporate law. Sourav's legal expertise ensures that Kinale Residences is built on a solid foundation of compliance, integrity and operational excellence.
 
-## What is Web Design?
+Kaustuv De Biswas, an architect and technology entrepreneur, drives the creative vision of Kinale. With a deep expertise in AI and a passion for exploring the intersection of technology and culture, Kaustuv brings a unique perspective to real estate development. He has built companies in the Silicon Valley that blend AI and design, with his last venture being acquired by Rakuten. Kaustuv is a senior TED fellow and graduated from the Massachusetts Institute of Technology as an Inlaks scholar.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+<!-- ![Founders]({{ "assets/images/gen/content/founder-pic.png" | relative_url }}) -->
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+## Our Commitment
 
-## Front-end Development
+At Kinale, our commitment is to craft residences that genuinely embody our philosophy of elevating the living experience through thoughtful design, meticulous craftsmanship, and a deep connection with nature.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
-
-> As a UX designer, you should consider the Why, What and How of product use.
-
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
-
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma]({{ "/assets/images/gen/content/content-2.webp" | relative_url }})
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+We are dedicated to paying attention to every detail, from the initial diligence and conceptualization to the final construction and landscaping. Our multidisciplinary team of seasoned professionals works collaboratively to ensure that each aspect of a Kinale home is carefully considered and flawlessly executed.
