@@ -33,6 +33,7 @@ gallery_limit: 99
 
 Nestled amidst lush green paddy fields, Colvale is a picturesque village located along the banks of the Chapora river. The architecture of our project in this serene setting orchestrates a journey from the entrance to the vast expanse of the paddy fields, using strong visual lines punctuated with thoughtfully landscaped courtyards and terraces.
 
+<!--
 As one enters the property, they are greeted by the remnants of the ancient Sahyadri mountain range, older than the Himalayas, stretching its fingers until they recede under the lush paddy fields. It is on one such piece of land that we are building a house – a home that is expansive, merging peacefully with the untamed natural beauty that envelops it while integrating state-of-the-art technology for elevated living.
 
 The design of this home leverages the natural terrain, seamlessly integrating the various levels of the house with the contours of the land. The structure extends out from a lush food forest, establishing a gradual descent to the fields that lie ahead. This gentle transition from the built environment to the natural landscape creates a harmonious dialogue between the two, immersing the residents in the beauty of their surroundings.
@@ -43,4 +44,4 @@ The landscaped courtyards and terraces serve as extensions of the living spaces,
 
 As the journey through the property culminates at the edge of the paddy fields, one is left with a sense of having traversed through a series of carefully curated experiences – from the solidity of the mountain to the serenity of the fields, with the architecture serving as a bridge between the two. It is this seamless integration of the built and the natural that makes this project truly unique, offering a living experience that is both grounded and elevated, intimate yet expansive, and deeply connected to the essence of its location in Colvale.
 
-For more details about this project, [contact us]({{ "/contact/" | relative_url }})
+For more details about this project, [contact us]({{ "/contact/" | relative_url }}) -->
