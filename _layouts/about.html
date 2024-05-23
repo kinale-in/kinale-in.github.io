@@ -1,0 +1,58 @@
+---
+layout: default
+body_classes: page-basic
+---
+
+{% assign mission = page.mission | strip_newlines %}
+{% if mission != "" %}
+<div class="pt-10">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8">
+        <h2>{{ page.mission }}</h2>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+
+{% assign found1 = page.founder1 | strip_newlines %}
+{% assign found2 = page.founder2 | strip_newlines %}
+{% if found1 != "" %}
+<div class="pt-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8">
+        <h2>Our Founders</h2>
+        <div class="row pt-2">
+          <div class="col-12 col-md-6">
+            <div class="content">
+              <p>{{ page.founder1 }}</p>
+            </div>
+          </div>
+          <div class="col-12 col-md-6">
+            <div class="content">
+              <p>{{ page.founder2 }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+{% assign commitment = page.commitment | strip_newlines %}
+{% if commitment != "" %}
+<div class="py-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8">
+        <h2>Our Commitment</h2>
+        <div class="content pt-2">{{ page.commitment }}</div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
