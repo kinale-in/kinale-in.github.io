@@ -2,12 +2,12 @@
 layout: project-right
 title: "Aranyak"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
-date: 2018-11-21
+# date: "Q4,2025"
 weight: 1
 thumbnail: "/assets/images/gen/proj/ext-view-1.jpg"
 categories: ["Villa in Colvale, North Goa"]
-# client: ""
-role: "In Construction"
+client: "Q3, 2025"
+role: "In Construction. Completion Q4, 2025"
 gallery:
   - image: "/assets/images/gen/proj/map-view-4.jpg"
   - image: "/assets/images/gen/proj/ext-view-2.jpg"
