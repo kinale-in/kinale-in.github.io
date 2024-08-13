@@ -1,5 +1,5 @@
 ---
-layout: project-left
+layout: project-right
 title: "Aranyak"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
 date: 2018-11-21
@@ -31,7 +31,13 @@ gallery:
 gallery_limit: 99
 ---
 
-Nestled amidst lush green paddy fields, Colvale is a picturesque village located along the banks of the Chapora river. The architecture of our project in this serene setting orchestrates a journey from the entrance to the vast expanse of the paddy fields, using strong visual lines punctuated with thoughtfully landscaped courtyards and terraces.
+Nestled within the lush greenery of Colvale, a picturesque village along the banks of the Chapora River in North Goa, ARANYAK seamlessly blends with nature to offer an extraordinary mix of luxury and tranquillity. This exquisite 5 bed room villa, perched on a hilly slope, provides breath taking views of sprawling paddy fields and the serene Chapora Tributary, integrating with nature peacefully.
+
+The architecture of our project in this serene setting takes you on a journey from the entrance to the vast expanse of the paddy fields, utilizing strong visual lines punctuated with thoughtfully landscaped courtyards and terraces. This journey immerses you in a dialogue between the built environment and the untamed beauty that surrounds it.
+
+With a plot size of 2,875 sqm (3,435 sq. yds.), and a built-up area of 1,310 sqm (14,100 sq. ft.), ARANYAK serves as a haven providing an escape from daily hustle, inviting you to a life of unparalleled grandeur, with every detail showcasing meticulous design and a deep reverence for nature.
+
+[India Sotheby’s International Realty]({{ "https://www.sothebysrealty.com/india/eng/sales/detail/797-l-3892-87tewv/colvale-goa-ga"}}) is our exclusive marketing and sales partner for this project.
 
 <!--
 As one enters the property, they are greeted by the remnants of the ancient Sahyadri mountain range, older than the Himalayas, stretching its fingers until they recede under the lush paddy fields. It is on one such piece of land that we are building a house – a home that is expansive, merging peacefully with the untamed natural beauty that envelops it while integrating state-of-the-art technology for elevated living.
