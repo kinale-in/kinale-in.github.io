@@ -1,20 +1,5 @@
 [
   {
-    "title": "Twitter",
-    "fa_icon": "fab fa-twitter",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Facebook",
-    "fa_icon": "fab fa-facebook-square",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Instagram",
-    "fa_icon": "fab fa-instagram-square",
-    "url": "https://www.zerostatic.io"
-  },
-  {
     "title": "Linkedin",
     "fa_icon": "fab fa-linkedin",
     "url": "https://www.linkedin.com/company/kinale-riverside-estate-llp/"
